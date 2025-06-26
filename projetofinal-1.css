@@ -1,0 +1,50 @@
+body
+{background: #F6F8EC;
+background: linear-gradient(180deg, rgba(246, 248, 236, 1) 0%, rgba(246, 248, 236, 1) 0%);
+margin: 0;
+color: black;
+font-family: BebasNeue;
+text-align: center;
+}
+
+#escarlate {
+    margin-top: 40px;
+  margin-left: 10px;
+  width: 100px;
+  height: 100px;
+}
+#video{
+ margin-top: -650px;
+  margin-left: 400px;
+  width: 700px;
+  height: 40px;
+}
+
+#ing {
+  margin-top: 390px;
+  margin-left: -200px;
+  width: 700px;
+  height: 200px;
+  font-size: 20px;
+}
+
+#voltar
+{
+    margin-left: 1407px;
+    margin-top: -100px;
+}
+
+#text{
+  margin-top: 400px;
+  margin-left: 500px;
+  width: 700px;
+  height: 200px;
+  font-size: 20px;
+}
+
+#ingredientes{
+  width: 300px;
+  margin-top:-10px;
+  margin-left: 250px;
+  
+}

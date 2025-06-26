@@ -1,0 +1,50 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: LibreBodoni-Regular;
+  background-color: #F6F8EC;
+  color: #cad88a;
+}
+
+header {
+  background-color: #cad88a;
+  color: #F6F8EC;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+input, textarea {
+  padding: 10px;
+  border: 1px solid #F6F8EC;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+button {
+  background-color: #cad88a;
+  color: #F6F8EC;
+  border: none;
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #cad88a;
+}
+
